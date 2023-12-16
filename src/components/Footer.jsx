@@ -12,7 +12,7 @@ export default function Footer() {
             <br />
             Chevilly-Larue
             <br />
-            94320
+            94550
             <br />
             gaomingqiao@gmail.com
             <br />
