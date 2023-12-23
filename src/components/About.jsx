@@ -1,5 +1,6 @@
 import React from "react";
 import cvphoto from "../assets/img/cvphoto.png";
+import cv_capture from "../assets/img/cv_capture.png";
 
 export default function About() {
   return (
@@ -28,7 +29,7 @@ export default function About() {
               plus sur moi. Hâte de pouvoir en discuter avec vous!😊
             </p>
           </div>
-          <div class="col-12 text-center my-5 mb-md-0">
+          {/* <div class="col-12 text-center my-5 mb-md-0">
             <a
               class="btn btn-outline-light"
               href="https://portfolio-react-neon-seven.vercel.app/cv_capture.png"
@@ -37,7 +38,7 @@ export default function About() {
             >
               Voir mon CV
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
     </>
