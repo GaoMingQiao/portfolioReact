@@ -31,7 +31,7 @@ export default function About() {
           <div class="col-12 text-center my-5 mb-md-0">
             <a
               class="btn btn-outline-light"
-              href="#"
+              href="src\assets\img\cv_capture.png"
               target="blank"
               role="button"
             >
